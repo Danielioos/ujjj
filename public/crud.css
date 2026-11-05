@@ -1,0 +1,7 @@
+details summary {
+    cursor: pointer;
+}
+
+.table td {
+    vertical-align: middle;
+}

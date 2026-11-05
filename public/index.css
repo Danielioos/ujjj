@@ -1,0 +1,25 @@
+body {
+    background: #f3f6f9;
+    color: #253247;
+    font-family: Arial, sans-serif;
+}
+
+.hero h1 {
+    color: #182333;
+}
+
+.content-card {
+    border: 1px solid #e5eaf0;
+}
+
+.stat {
+    height: 100%;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.site-footer small {
+    line-height: 1.8;
+}
